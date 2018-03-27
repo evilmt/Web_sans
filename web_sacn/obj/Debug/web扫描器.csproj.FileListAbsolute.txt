@@ -1,0 +1,10 @@
+D:\VS\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\VS\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\VS\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\VS\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\web扫描器.csprojResolveAssemblyReference.cache
+D:\VS\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\VS\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\VS\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\web扫描器.csproj.GenerateResource.cache
+D:\VS\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\web扫描器.csproj.CoreCompileInputs.cache
+D:\VS\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\VS\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
